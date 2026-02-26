@@ -7,7 +7,6 @@
   *Yazılım geliştiriyor, uçtan uca test ediyor ve yeni nesil yazılımcılar yetiştiriyorum.*
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/senin-profilin)
-  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/leadercoders)
   [![Website](https://img.shields.io/badge/LeaderCoders-20232A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://senin-siten.com)
 
 </div>

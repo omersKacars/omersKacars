@@ -32,8 +32,7 @@
 
 <div align="center">
   
-  ### TL;DR
-
+  
   Backend & test otomasyonu odaklı bir yazılım geliştiricisiyim.  
   Spring Boot, microservices ve test otomasyon mimarileri tasarlıyorum.  
   LeaderCoders ile kurumsal projeler geliştiriyor ve eğitimler veriyorum.

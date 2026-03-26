@@ -32,7 +32,7 @@
 
 <div align="center">
   
-  ### 🧭 TL;DR
+  ### TL;DR
 
   Backend & test otomasyonu odaklı bir yazılım geliştiricisiyim.  
   Spring Boot, microservices ve test otomasyon mimarileri tasarlıyorum.  
@@ -42,31 +42,33 @@
 
 ---
 
-## 👨‍💻 Benim Hakkımda
+<a id="about"></a>
+## Benim Hakkımda
 
 Hem sağlam mimariler inşa eden bir geliştirici hem de sistemin açıklarını bulan bir test mühendisiyim. Aynı zamanda **LeaderCoders**'ın kurucu ortağı olarak programlama eğitimleri veriyorum.
 
-- 🏢 **Şu an ne yapıyorum?** LeaderCoders'ı büyütüyor, kurumsal projeler geliştiriyor ve test otomasyon mimarileri kuruyorum.
-- 🌱 **Neler Öğretiyorum?** Java, JavaScript, Python, C#, SQL ve Test Otomasyonu.
-- ⚙️ **Odak Noktam:** Spring Boot Microservices, REST API, Mobil/Web Test Otomasyonu (Appium/Selenium/Cucumber).
-- 💬 **Bana şunları sorabilirsiniz:** Java Backend Mimarisi, TestNG/Cucumber Framework kurulumu, Eğitmenlik.
-- 📫 **Bana ulaşın:** LinkedIn üzerinden veya `leadercoders.com` üzerinden iletişime geçebilirsiniz.
+- **Şu an ne yapıyorum?** LeaderCoders'ı büyütüyor, kurumsal projeler geliştiriyor ve test otomasyon mimarileri kuruyorum.
+- **Neler Öğretiyorum?** Java, JavaScript, Python, C#, SQL ve Test Otomasyonu.
+- **Odak Noktam:** Spring Boot Microservices, REST API, Mobil/Web Test Otomasyonu (Appium/Selenium/Cucumber).
+- **Bana şunları sorabilirsiniz:** Java Backend Mimarisi, TestNG/Cucumber Framework kurulumu, Eğitmenlik.
+- **Bana ulaşın:** LinkedIn üzerinden veya `leadercoders.com` üzerinden iletişime geçebilirsiniz.
 
 ---
 
-## 🧩 İçindekiler
+## İçindekiler
 
-- [👨‍💻 Benim Hakkımda](#-benim-hakkımda)
-- [🛠️ Teknoloji ve Araç Çantam](#️-teknoloji-ve-araç-çantam)
-- [🔗 Repolar](#-repolar)
-- [📊 GitHub İstatistiklerim](#-github-i̇statistiklerim)
-- [🎯 Kapanış](#-kapanış)
+- [Benim Hakkımda](#about)
+- [Teknoloji ve Araç Çantam](#tech-stack)
+- [Repolar](#repos)
+- [GitHub İstatistiklerim](#stats)
+- [Kapanış](#closing)
 
 ---
 
-## 🛠️ Teknoloji ve Araç Çantam
+<a id="tech-stack"></a>
+## Teknoloji ve Araç Çantam
 
-### 💻 Diller & Backend
+### Diller & Backend
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
@@ -77,7 +79,7 @@ Hem sağlam mimariler inşa eden bir geliştirici hem de sistemin açıklarını
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-### 🧪 Test Otomasyon (Fullstack QA)
+### Test Otomasyon (Fullstack QA)
 <p align="left">
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" />
   <img src="https://img.shields.io/badge/Appium-662d91?style=for-the-badge&logo=appium&logoColor=white" />
@@ -86,7 +88,7 @@ Hem sağlam mimariler inşa eden bir geliştirici hem de sistemin açıklarını
   <img src="https://img.shields.io/badge/TestNG-FF7F00?style=for-the-badge&logo=testing-library&logoColor=white" />
 </p>
 
-### 🐳 DevOps & Versiyon Kontrol
+### DevOps & Versiyon Kontrol
 <p align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -95,14 +97,15 @@ Hem sağlam mimariler inşa eden bir geliştirici hem de sistemin açıklarını
 
 ---
 
-## 🔗 Repolar
+<a id="repos"></a>
+## Repolar
 
 Aşağıdaki repolar, çalışmalarımın ve eğitim materyallerimin birer özetidir:
 
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">⚙️ Backend (Spring Boot)</h3>
+      <h3 align="center">Backend (Spring Boot)</h3>
       <div align="center">
         <a href="https://github.com/omersKacars/task-springboot">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=omersKacars&repo=task-springboot&theme=tokyonight&show_icons=true" width="100%" />
@@ -112,7 +115,7 @@ Aşağıdaki repolar, çalışmalarımın ve eğitim materyallerimin birer özet
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">⏱️ Eğitim Araçları</h3>
+      <h3 align="center">Eğitim Araçları</h3>
       <div align="center">
         <a href="https://github.com/omersKacars/LeaderCodersTimer">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=omersKacars&repo=LeaderCodersTimer&theme=tokyonight&show_icons=true" width="100%" />
@@ -128,7 +131,8 @@ Aşağıdaki repolar, çalışmalarımın ve eğitim materyallerimin birer özet
 
 ---
 
-## 📊 GitHub İstatistiklerim
+<a id="stats"></a>
+## GitHub İstatistiklerim
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=omersKacars&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
@@ -143,9 +147,10 @@ Aşağıdaki repolar, çalışmalarımın ve eğitim materyallerimin birer özet
 
 ---
 
-## 🎯 Kapanış
+<a id="closing"></a>
+## Kapanış
 
 <div align="center">
   <p><i>"Kod yazmak bir sanat, onu test etmek ve başkalarına öğretmek ise bir ustalıktır."</i></p>
-  <p>Yeni projeler, iş birlikleri veya eğitimler için bana her zaman ulaşabilirsiniz. 🙌</p>
+  <p>Yeni projeler, iş birlikleri veya eğitimler için bana her zaman ulaşabilirsiniz.</p>
 </div>

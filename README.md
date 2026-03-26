@@ -96,40 +96,6 @@ Hem sağlam mimariler inşa eden bir geliştirici hem de sistemin açıklarını
 
 ---
 
-<a id="repos"></a>
-## Repolar
-
-Aşağıdaki repolar, çalışmalarımın ve eğitim materyallerimin birer özetidir:
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Backend (Spring Boot)</h3>
-      <div align="center">
-        <a href="https://github.com/omersKacars/task-springboot">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=omersKacars&repo=task-springboot&theme=tokyonight&show_icons=true" width="100%" />
-        </a>
-        <br/>
-        <p><i>Enterprise seviyesinde REST API projesi.</i></p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">Eğitim Araçları</h3>
-      <div align="center">
-        <a href="https://github.com/omersKacars/LeaderCodersTimer">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=omersKacars&repo=LeaderCodersTimer&theme=tokyonight&show_icons=true" width="100%" />
-        </a>
-        <br/>
-        <p><i>LeaderCoders için JavaScript ile geliştirilmiş Timer aracı.</i></p>
-      </div>
-    </td>
-  </tr>
-</table>
-
-<p><i>Not: Test otomasyon projelerim ağırlıklı olarak 'Private' repolarda, kurumsal gizlilik kapsamında yürütülmektedir.</i></p>
-
----
-
 <a id="stats"></a>
 ## GitHub İstatistiklerim
 
